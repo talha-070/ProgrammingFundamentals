@@ -1,0 +1,15 @@
+Q#1
+Which animal is known as the ‘Ship of the Desert’?
+1)Horse	    2)Camel	3)Elephant	4)Mule
+Q#2
+How many letters are there in the English alphabet?
+1)20	2)21	3)25	4)26
+Q#3
+Which is the tallest mountain in the world?
+1)K2	2)Nanga Parbat	3)Mount Everest	  4)Tirich Mir
+Q#4
+Which planet is known as the Red Planet?
+1)Venus	   2)Mercury	3)Jupiter	4)Mars
+Q#5
+What is the square root of 144?
+1)11	2)12	3)13	4)14
